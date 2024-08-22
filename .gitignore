@@ -1,0 +1,9 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/chapter 10/relational_db/.vs/relational_db
+/.vs
+/chapter 10/relational_db/bin/Debug
+/chapter 10/relational_db/obj/Debug
+/chapter 10/relational_db/rti_relational.sqlproj.user
