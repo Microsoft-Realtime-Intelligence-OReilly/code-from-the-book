@@ -1,0 +1,11 @@
+CoffeeID,CoffeeName,Description,Origin,RoastLevel,FlavorProfile,CaffeineContent,ServingSize,PreparationMethod,PricePerKg,Certification,Active,Notes
+1,Hot Chocolate,"A warm, sweet drink made with chocolate and milk, topped with whipped cream or marshmallows.",Mexico,Medium,"Sweet, chocolatey",5.0,240.0,Hot Beverage Maker,20.0,Fair Trade,True,Perfect for cold weather.
+2,Espresso,"Strong and bold coffee served in a small, concentrated shot.",Italy,Dark,"Rich, bold",63.0,30.0,Espresso Machine,25.0,Fair Trade,True,A classic espresso shot.
+3,Americano,"Espresso diluted with hot water for a smooth, balanced flavor.",USA,Medium,"Smooth, balanced",77.0,240.0,Espresso Machine,20.0,Fair Trade,True,Simple and satisfying.
+4,Cappuccino,Espresso with steamed milk and a layer of foam.,Italy,Medium,"Smooth, creamy",77.0,240.0,Espresso Machine,30.0,Organic,True,A popular morning choice.
+5,Latte,Espresso with more steamed milk and light foam for a creamy texture.,Italy,Medium,"Mild, milky",77.0,240.0,Espresso Machine,28.0,Fair Trade,True,Great for latte lovers.
+6,Mocha,"Espresso with chocolate syrup, steamed milk, and whipped cream.",Italy,Dark,"Chocolatey, sweet",77.0,240.0,Espresso Machine,35.0,Fair Trade,True,A dessert-like coffee.
+7,Pumpkin Spice Latte,"A seasonal latte with pumpkin spice flavors, steamed milk, and espresso.",USA,Medium,"Spiced, creamy",70.0,240.0,Espresso Machine,30.0,Organic,True,Seasonal favorite.
+8,Midnight Oil,Extra-strong brew for late-night focus.,USA,Dark,"Strong, intense",100.0,240.0,Drip Coffee Maker,25.0,None,True,For night owls.
+9,The Daily Grind,A classic and reliable coffee for everyday energy.,USA,Medium,"Balanced, reliable",80.0,240.0,Drip Coffee Maker,20.0,None,True,An everyday staple.
+10,Brewtiful Disaster,"A bold, adventurous blend with unpredictable flavor.",USA,Dark,"Complex, adventurous",95.0,240.0,Espresso Machine,22.0,None,True,A unique blend for adventurous drinkers.
